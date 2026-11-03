@@ -108,6 +108,7 @@ Everything else, including the rest of the movement systems and my tutorials, is
 ### Read the code
 
 - **[TrueFPSSystemPlugin](https://github.com/tornellihenrique/TrueFPSSystemPlugin):** replicated UE5 FPS plugin with weapons, attachments, bots and online sessions.
+- **[TeamDeathmatchFPS](https://github.com/tornellihenrique/TeamDeathmatchFPS):** complete two-team multiplayer FPS with server browser, lobby, Steam sessions and spectator.
 - **[FPSGame](https://github.com/tornellihenrique/FPSGame):** the project from my live course, with a procedural motion node and an equipment framework.
 - **[BulletSystem](https://github.com/tornellihenrique/BulletSystem):** physically simulated ballistics with drag, wind, penetration, ricochet and actor pooling.
 - **[FlagCapture](https://github.com/tornellihenrique/FlagCapture):** capture-the-flag multiplayer shooter on GAS.
