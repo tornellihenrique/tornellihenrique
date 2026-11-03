@@ -34,10 +34,21 @@
       <br><sub>Networked party game from Layoff Studios</sub>
     </td>
     <td width="50%" valign="top">
-      <br><b><a href="https://tornellihenrique.github.io/work/infection/">Infection</a></b>
+      <a href="https://tornellihenrique.github.io/work/infection/"><img src="assets/infection.webp" alt="Infection gameplay" width="100%"></a>
+      <br><b>Infection</b>
       <br><sub>Co-op zombie FPS on GAS</sub>
-      <br><br><b><a href="https://tornellihenrique.github.io/work/mobile-shooter/">Mobile shooter in Unity</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tornellihenrique.github.io/work/mobile-shooter/"><img src="assets/mobile-shooter.webp" alt="Mobile shooter weapon handling" width="100%"></a>
+      <br><b>Mobile shooter in Unity</b>
       <br><sub>Online mobile shooter in C#</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tornellihenrique.github.io/work/team-deathmatch-fps/"><img src="assets/team-deathmatch.webp" alt="Team Deathmatch FPS match" width="100%"></a>
+      <br><b>Team Deathmatch FPS</b>
+      <br><sub>Multiplayer FPS with Steam sessions</sub>
     </td>
   </tr>
 </table>
@@ -78,16 +89,16 @@
   </tr>
   <tr>
     <td width="33%" align="center">
+      <a href="https://github.com/SlapStudios/ALS-Refactored-Manny"><img src="assets/als-manny.webp" alt="ALS-Refactored Manny" width="100%"></a>
+      <br><sub>ALS-Refactored Manny</sub>
+    </td>
+    <td width="33%" align="center">
       <a href="https://tornellihenrique.github.io/work/movement-systems/#vault"><img src="assets/vault.webp" alt="Vault" width="100%"></a>
       <br><sub>Vault</sub>
     </td>
     <td width="33%" align="center">
       <a href="https://tornellihenrique.github.io/work/movement-systems/#ladder"><img src="assets/ladder.webp" alt="Ladder" width="100%"></a>
       <br><sub>Ladder</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://tornellihenrique.github.io/work/movement-systems/#zipline"><img src="assets/zipline.webp" alt="Zipline" width="100%"></a>
-      <br><sub>Zipline</sub>
     </td>
   </tr>
 </table>
